@@ -1,0 +1,35 @@
+baseURL = 'https://rdp5008.com'
+languageCode = 'en-us'
+
+[module]
+[[module.imports]]
+  path = 'github.com/LordMathis/hugo-theme-nightfall'
+
+[menu]
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "https://rdp5008.com/about"
+
+[params]
+author = "Russell D. Pate"
+user = "Russell D. Pate"
+hostname = "rdp5008.com"
+
+readingTime = true  # Show reading time on post page
+published = true  # Show published data on post page
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/rdp5008"
+
+[[params.social]]
+key = 2
+name = "linkedin"
+url = "https://www.linkedin.com/in/russell-pate-84188526/"
+
+[[params.social]]
+key = 3
+name = "email"
+url = "mailto:rdp5008@duck.com"
