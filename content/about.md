@@ -7,9 +7,9 @@ author = "Russell Pate"
 showMetadata = false
 +++
 
-I am a technology professional interested in progamming and web development.
+I am a technology professional studying Computer Science at College of DuPage.
 
-I am currently learning Python, Swift and SQL development at http://morainevalley.edu.
+I am active in Python, Swift, and SwiftUI development.
 
 Check out my other sites:
 
