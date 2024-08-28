@@ -11,11 +11,6 @@ languageCode = 'en-us'
     weight = 1
     url = "https://rdp5008.com/about"
 
-  [[menu.header]]
-    name = "blog"
-    weight = 1
-    url = "https://rdp5008.com/blog"
-
 [params]
 author = "Russell D. Pate"
 user = "Russell D. Pate"
