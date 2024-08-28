@@ -9,7 +9,7 @@ showMetadata = false
 
 I am a technology professional studying Computer Science at College of DuPage.
 
-I am active in Python, Swift, and SwiftUI development.
+I am active in Python, Swift and SwiftUI, and web development.
 
 Check out my other sites:
 
