@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://localhost:1313/</link>
+    <link>https://rdp5008.com/</link>
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://rdp5008.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New blog!</title>
-      <link>http://localhost:1313/blog/jul262024/</link>
-      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/jul262024/</guid>
-      <description>I plan to post here at least once a week, typically on a Friday, to recap my week and make plans for the future.&#xA;This will be a great opportunity for me to share what I&amp;rsquo;ve been working on during the week!</description>
+      <link>https://rdp5008.com/blog/jul292024/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://rdp5008.com/blog/jul292024/</guid>
+      <description>I plan to post here at least once a week, typically on a Friday, to recap my week and makei future plans.&#xA;This will be a great opportunity for me to share what I&amp;rsquo;ve been working on during the week!</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://rdp5008.com/about/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://rdp5008.com/about/</guid>
       <description>I am a technology professional studying Computer Science at College of DuPage.&#xA;I am active in Python, Swift, and SwiftUI development.&#xA;Check out my other sites:&#xA;https://russellpate.com </description>
     </item>
   </channel>
